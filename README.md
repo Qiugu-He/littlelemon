@@ -1,11 +1,10 @@
-# Little Lemon
+# Little Lemon 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-A fully responsive React-based web app developed for Little Lemon Restaurant, featuring a table-booking feature. 
+A fully responsive React-based web app developed for Little Lemon Restaurant, featuring a table-booking feature. This app serves as the final capstone project for the Meta's Front-End Developer Certification on Coursera.
 
-This app serves as the final capstone project for the Meta's Front-End Developer Certification on Coursera.
 
 ### Links
-
 - Live : [Demo](https://littlelemon-black.vercel.app/)
 
 ### Screenshot
@@ -32,6 +31,9 @@ This app serves as the final capstone project for the Meta's Front-End Developer
 - Build: **npm run build**
 - Run on local: **npm start**
 - Deploy: **npm run deploy**
+
+### License
+This project is under MIT License
 
 ### Author: 
 [@Qiugu He](https://github.com/Qiugu-He)
