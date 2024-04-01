@@ -10,8 +10,8 @@ This app serves as the final capstone project for the Meta's Front-End Developer
 
 ### Screenshot
 
-![restaurantBookingSystem](https://github.com/Qiugu-He/littlelemon/blob/master/public/screenshot.jpeg)
-![restaurantBookingSystem](https://github.com/Qiugu-He/littlelemon/blob/master/public/screenshot2.jpeg)
+![restaurantBookingSystem](https://github.com/Qiugu-He/littlelemon/blob/main/public/Screenshot.png)
+![restaurantBookingSystem](https://github.com/Qiugu-He/littlelemon/blob/main/public/Screenshot2.png)
 
 
 ### Tech stack
